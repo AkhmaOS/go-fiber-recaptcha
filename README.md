@@ -2,7 +2,9 @@
 
 
 ## Install
+```
 go get github.com/AkhmaOS/go-fiber-recaptcha
+```
 
 ## Example
 
