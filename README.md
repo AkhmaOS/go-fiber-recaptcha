@@ -1,4 +1,4 @@
-# Go fiber recaptcha
+# Go fiber recaptcha middleware
 
 
 ## Install
