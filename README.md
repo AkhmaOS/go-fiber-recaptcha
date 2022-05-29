@@ -3,7 +3,7 @@
 
 ## Install
 ```
-go get github.com/AkhmaOS/go-fiber-recaptcha
+go get github.com/akhmaos/go-fiber-recaptcha
 ```
 
 ## Example
